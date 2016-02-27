@@ -15,6 +15,11 @@
         app:showAsAction="ifRoom|withText"/>
 
     <item
+        android:id="@+id/action_up"
+        android:title="@string/action_up"
+        app:showAsAction="always"/>
+
+    <item
         android:id="@+id/action_notify"
         android:icon="@drawable/ic_notifications_white_24dp"
         android:title="@string/action_notify"

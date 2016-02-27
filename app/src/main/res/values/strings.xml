@@ -5,4 +5,5 @@
     <string name="action_notify">通知</string>
     <string name="action_search">搜索</string>
     <string name="text_zhihu">知乎</string>
+    <string name="action_up">赞</string>
 </resources>
