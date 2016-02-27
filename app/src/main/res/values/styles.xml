@@ -19,6 +19,7 @@
 
     <style name="ToolbarTheme" parent="AppTheme.AppBarOverlay">
         <item name="android:background">@android:color/holo_red_light</item>
+        <item name="android:textColorPrimary">@android:color/black</item>
     </style>
 
 </resources>
