@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">ToolbarPractice</string>
     <string name="action_settings">Settings</string>
+    <string name="index">首页</string>
+    <string name="action_notify">通知</string>
+    <string name="action_search">搜索</string>
+    <string name="text_zhihu">知乎</string>
 </resources>
